@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Earthquakes
 //
-//  Created by Aminjoni Abdullozoda on 3/10/21.
+//  Created by Aminjoni Abdullozoda on 3/13/21.
 //
 
 import UIKit
